@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(860): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(861): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(873): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(874): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(889): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bezier Curve.vcxproj -> C:\Users\Seth\Documents\Visual Studio 2017\Projects\Bezier Curve\Release\Bezier Curve.exe

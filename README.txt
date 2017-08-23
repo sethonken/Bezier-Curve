@@ -1,0 +1,1 @@
+To start, go to "Release" -> "Bezier Curve"
